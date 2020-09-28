@@ -1,4 +1,4 @@
-### EunSeok : Back To Basic
+## Value: Back To Basic
 
 항상 호기심이 많으며 당연한 것에도 **왜?** 라는 질문을 많이 합니다.
 
@@ -6,11 +6,22 @@
 
 최근 진행한 프로젝트에서도 대부분의 새로운 기술들을 소화하고 팀에게 기여했습다.
 
-### Project
+## Stack
+- Java, C, C++
+- React Native, TypeScript, Recoil, Axios
+- Html, Css, JavaScript
+- Spring (Spring boot, Spring Security, Spring Data JPA)
+- MariaDB, MySQL, Flywaym, LogBack
+- Nginx, Docker
 
-#### 직고래
+## Recent Interests
+- Nginx, Docker, Spring Security, SSL/TLS
 
-따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸다
+## Project
+
+### 직고래
+
+**따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸다**
 
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
     <img 
@@ -19,36 +30,25 @@
 </a>
 <a href="https://sites.google.com/woowahan.com/wooteco-demo/직고래">
     <img 
-        src="http://img.shields.io/badge/-🐳 Demo site-blue?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/직고래/"
+        src="http://img.shields.io/badge/-🐳 Demo Site-9cf?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/직고래/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-##### Project 적용기 
+#### Project 적용기 
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
     <img 
         src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### Learn
+## Learn
 
-#### 우아한테크코스
+### 우아한테크코스
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
     <img 
         src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-### Stack
-- Java, C, C++
-- React Native, TypeScript, Recoil, Axios
-- Html, Css, JavaScript
-- Spring (Spring boot, Spring Security, Spring Data JPA)
-- MariaDB, MySQL, Flywaym, LogBack
-- Nginx, Docker
-
-### Recent Interests
-- Nginx, Docker, Spring Security, SSL/TLS
 
 <!--
 **joseph415/joseph415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
