@@ -1,4 +1,4 @@
-## Value: Back To Basic
+## Value: ↩️ Back To Basic
 
 항상 호기심이 많으며 당연한 것에도 **왜?** 라는 질문을 많이 합니다.
 
@@ -11,18 +11,18 @@
 - React Native, TypeScript, Recoil, Axios
 - Html, Css, JavaScript
 - Spring (Spring boot, Spring Security, Spring Data JPA)
-- MariaDB, MySQL, Flywaym, LogBack
+- MariaDB, MySQL, Flyway, LogBack
 - Nginx, Docker
 
 ## Recent Interests
 - Nginx, Docker, Spring Security, SSL/TLS
 
-## Project
+## 우아한테크코스
 
 ### 직고래
 
 **따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸다**
-
+<div>
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
     <img 
         src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
@@ -33,34 +33,18 @@
         src="http://img.shields.io/badge/-🐳 Demo Site-9cf?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/직고래/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+</div>
 
-#### Project 적용기 
+#### 기술 적용기 
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
     <img 
         src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-## Learn
-
-### 우아한테크코스
+### Learn
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
     <img 
         src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-<!--
-**joseph415/joseph415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
