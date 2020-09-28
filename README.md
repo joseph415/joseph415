@@ -6,17 +6,6 @@
 
 최근 진행한 프로젝트에서도 대부분의 새로운 기술들을 소화하고 팀에게 기여했습다.
 
-## Stack
-- Java, C, C++
-- React Native, TypeScript, Recoil, Axios
-- Html, Css, JavaScript
-- Spring (Spring boot, Spring Security, Spring Data JPA)
-- MariaDB, MySQL, Flyway, LogBack
-- Nginx, Docker
-
-## Recent Interests
-- Nginx, Docker, Spring Security, SSL/TLS
-
 ## 우아한테크코스
 
 ### 📑 Project
@@ -29,14 +18,14 @@
         src="http://img.shields.io/badge/-Project Repo-1b262c?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://sites.google.com/woowahan.com/wooteco-demo/직고래">
-    <img 
-        src="http://img.shields.io/badge/-🐳 Demo Site-3282b8?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/직고래/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
     <img 
-        src="http://img.shields.io/badge/-기술 적용기-bbe1fa?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
+        src="http://img.shields.io/badge/-기술 적용기-3282b8?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://sites.google.com/woowahan.com/wooteco-demo/직고래">
+    <img 
+        src="http://img.shields.io/badge/-🐳 Demo Site-bbe1fa?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/직고래/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
@@ -47,3 +36,14 @@
         src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+## Stack
+- Java, C, C++
+- React Native, TypeScript, Recoil, Axios
+- Html, Css, JavaScript
+- Spring (Spring boot, Spring Security, Spring Data JPA)
+- MariaDB, MySQL, Flyway, LogBack
+- Nginx, Docker
+
+## Recent Interests
+- Nginx, Docker, Spring Security, SSL/TLS
