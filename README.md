@@ -1,6 +1,6 @@
 ## Value: ↩️ Back To Basic
 
-항상 호기심이 많으며 당연한 것에도 **왜?** 라는 질문을 많이 합니다.
+호기심이 많으며 당연한 것에도 **왜?** 라는 질문을 많이 합니다.
 
 기초를 중요시 여기고 새로운 것에 대해 적극적이고 빠르게 흡수하고 열정적으로 받아들입니다. 
 
@@ -19,8 +19,9 @@
 
 ## 우아한테크코스
 
-### 직고래
+### 📑 Project
 
+#### 직고래
 **따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸다**
 <div>
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
@@ -42,7 +43,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### Learn
+### ✏️ Learn
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
     <img 
         src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
