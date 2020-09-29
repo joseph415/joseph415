@@ -18,9 +18,9 @@
         src="http://img.shields.io/badge/-Project Repo-1b262c?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
+<a href="https://github.com/joseph415/JIKGORAE-project-records">
     <img 
-        src="http://img.shields.io/badge/-기술 적용기-3282b8?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
+        src="http://img.shields.io/badge/-기술 적용기-3282b8?style=flat&logo=Github&link=https://github.com/joseph415/JIKGORAE-project-records"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://sites.google.com/woowahan.com/wooteco-demo/직고래">
