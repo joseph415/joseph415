@@ -31,9 +31,9 @@
 </div>
 
 ### ✏️ Learn
-<a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
+<a href="https://github.com/joseph415/woowacourse-learns">
     <img 
-        src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
+        src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/joseph415/woowacourse-learns"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
