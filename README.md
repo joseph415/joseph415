@@ -42,8 +42,8 @@
 - React Native, TypeScript, Recoil, Axios
 - Html, Css, JavaScript
 - Spring (Spring boot, Spring Security, Spring Data JPA)
-- MariaDB, MySQL, Flyway, LogBack
-- Nginx, Docker
+- MariaDB, MySQL
+- Nginx
 
 ## Recent Interests
 - Nginx, Docker, Spring Security, SSL/TLS
