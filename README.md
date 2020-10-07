@@ -39,11 +39,10 @@
 
 ## Stack
 - Java, C, C++
-- React Native, TypeScript, Recoil, Axios
+- React Native, TypeScript
 - Html, Css, JavaScript
 - Spring (Spring boot, Spring Security, Spring Data JPA)
-- MariaDB, MySQL
-- Nginx
+- MariaDB
 
 ## Recent Interests
 - Nginx, Docker, Spring Security, SSL/TLS
