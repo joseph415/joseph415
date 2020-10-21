@@ -46,4 +46,4 @@
 - MariaDB
 
 ## Recent Interests
-- Nginx, Docker, Spring Security, SSL/TLS
+- Nginx, Docker, Spring Security
