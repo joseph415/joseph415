@@ -9,7 +9,7 @@
 
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
     <img 
-        src="http://img.shields.io/badge/-📘resume-bbe1fa?style=flat&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
+        src="http://img.shields.io/badge/-📘resume-bbe1fa?style=flat&link=http://joseph415.github.io/resume/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
