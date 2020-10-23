@@ -7,6 +7,12 @@
 
 최근 진행한 프로젝트에서도 대부분의 새로운 기술들을 소화하고 팀에게 이바지했습니다.
 
+<a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
+    <img 
+        src="http://img.shields.io/badge/-📘resume-bbe1fa?style=flat&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ## 우아한테크코스
 
 ### 📑 Project
