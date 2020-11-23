@@ -47,9 +47,8 @@
 ## Stack
 - Java, C, C++
 - React Native, TypeScript
-- Html, Css, JavaScript
 - Spring (Spring boot, Spring Security, Spring Data JPA)
 - MariaDB
 
 ## Recent Interests
-- Nginx, Docker, Spring Security
+- Docker,Spring MVC ,Spring Security
