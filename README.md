@@ -44,6 +44,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joseph415&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Stack
 - Java, C, C++
 - React Native, TypeScript
