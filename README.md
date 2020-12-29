@@ -44,13 +44,13 @@
 </a>
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joseph415&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Stack
 - Java, C, C++
 - React Native, TypeScript
 - Spring (Spring boot, Spring Security, Spring Data JPA)
 - MariaDB
+<br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joseph415&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Interests
 - Docker, Spring Security
