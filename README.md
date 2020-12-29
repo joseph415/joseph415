@@ -18,7 +18,7 @@
 ## ✏️ Woowacourse Learns
 <a href="https://github.com/joseph415/woowacourse-learns">
     <img 
-        src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/joseph415/woowacourse-learns"
+        src="http://img.shields.io/badge/-Github Repo-1b262c?style=flat&logo=Github&link=https://github.com/joseph415/woowacourse-learns"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
