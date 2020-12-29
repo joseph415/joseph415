@@ -1,4 +1,4 @@
-## Value: ↩️ Slow But Steady Wins the Race
+# Value: ↩️ Slow But Steady Wins the Race
 꾸준함은 성장에 좋은 밑거름이라고 생각합니다.
 
 호기심이 많으며 당연한 것에도 **왜?** 라는 질문을 많이 합니다.
@@ -13,11 +13,18 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-## 우아한테크코스
+# 우아한테크코스
 
-### 📑 Project
+## ✏️ Woowacourse Learns
+<a href="https://github.com/joseph415/woowacourse-learns">
+    <img 
+        src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/joseph415/woowacourse-learns"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-#### 직고래
+## 📑 Project
+
+### 직고래
 **따뜻한 교류가 있는 조직 벼룩시장을 꿈꾸다**
 <div>
 <a href="https://github.com/woowacourse-teams/2020-seller-lee-company">
@@ -36,13 +43,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
-
-### ✏️ Learn
-<a href="https://github.com/joseph415/woowacourse-learns">
-    <img 
-        src="http://img.shields.io/badge/-Github Repo-black?style=flat&logo=Github&link=https://github.com/joseph415/woowacourse-learns"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joseph415&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
