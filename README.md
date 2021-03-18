@@ -45,10 +45,10 @@
 </div>
 
 ## Stack
-- Java, C, C++
-- React Native, TypeScript
-- Spring (Spring boot, Spring Security, Spring Data JPA)
-- MariaDB
+- Java, C, C++, python
+- Spring (Spring boot, Spring Security, Spring Data JPA), Junit5, Mockito
+- MariaDB, JPA
+- Docker
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joseph415&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
