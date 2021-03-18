@@ -46,7 +46,7 @@
 
 ## Stack
 - Java, C, C++, python
-- Spring boot, Spring MVC, Spring Security, Spring Data JPA, Junit5, Mockito
+- Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Junit5, Mockito
 - MariaDB, JPA
 - Docker
 <br/>
