@@ -48,7 +48,7 @@
 - Java, C, C++, python
 - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Junit5, Mockito
 - MariaDB, JPA
-- Docker
+- Docker, Nginx
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joseph415&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
