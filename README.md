@@ -45,7 +45,7 @@
 </div>
 
 ## Stack
-- Java, C, C++, python
+- Java
 - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Junit5, Mockito
 - MariaDB, JPA
 - Docker, Nginx
